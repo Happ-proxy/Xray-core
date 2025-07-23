@@ -89,6 +89,7 @@
   - [FoXray](https://apps.apple.com/app/foxray/id6448898396)
   - [Streisand](https://apps.apple.com/app/streisand/id6450534064)
 - macOS arm64 & x64
+  - [Happ](https://apps.apple.com/app/happ-proxy-utility/id6504287215)
   - [V2rayU](https://github.com/yanue/V2rayU)
   - [V2RayXS](https://github.com/tzmax/V2RayXS)
   - [Furious](https://github.com/LorenEteval/Furious)
@@ -96,6 +97,10 @@
 - Linux
   - [v2rayA](https://github.com/v2rayA/v2rayA)
   - [Furious](https://github.com/LorenEteval/Furious)
+- Apple TV
+  - [Happ](https://apps.apple.com/app/happ-proxy-utility/id6748297274)
+- Android TV
+  - [Happ](https://play.google.com/store/apps/details?id=com.happproxy)
 
 ## Others that support VLESS, XTLS, REALITY, XUDP, PLUX...
 
